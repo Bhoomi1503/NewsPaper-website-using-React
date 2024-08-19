@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #f8f8f8;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  .icon{
+    padding-top: 20px;
+  }
+  .top-bar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .top-bar nav a {
+    margin-left: 15px;
+    color: #555;
+    text-decoration: none;
+  }
+  
+  .top-bar nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .logo-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+  }
+  
+  h1 {
+    color: #33aa33;
+    font-family: 'Arial Black', sans-serif;
+    margin: 0;
+  }
+  
+  .logo-bar nav a {
+    margin-left: 15px;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .logo-bar nav a:hover {
+    color: #33aa33;
+  }
+  
+
+  /*  */
+  .trending {
+    background-color: #eeeeee;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #666;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .trending p {
+    margin: 0;
+    font-weight: bold;
+  }
+
+  /*  */
+
+  .content-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.main-content {
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-article-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.main-article {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.main-article:last-child {
+    margin-right: 0;
+}
+
+.main-article img {
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.article-info h2 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.article-info p {
+    color: #888;
+}
+
+.side-articles {
+    flex: 1;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.side-article {
+    margin-bottom: 20px;
+}
+
+.side-article video {
+    width: 100%;
+    height: 150px;
+}
+
+
+/*  */
+.header-container {
+  margin-bottom: 30px;
+}
+
+.featured-article {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.featured-image {
+  width: 300px;
+  height: auto;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.head{
+  color: #333;
+}
+.featured-content {
+  max-width: 600px;
+}
+
+.featured-source {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.featured-description {
+  margin: 20px 0;
+  color: #333;
+}
+
+.featured-category {
+  color: #e60023;
+  font-weight: bold;
+}
+/*  */
+.latest-news-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.latest-news-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.latest-news-header h2 {
+  margin: 0;
+}
+
+.see-all {
+  color: #e60023;
+  text-decoration: none;
+}
+
+.news-grid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.news-item {
+  width: 22%;
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.news-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.news-content {
+  padding: 15px;
+}
+
+.news-source {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.news-title {
+  font-size: 18px;
+  margin: 10px 0;
+  color: #333;
+}
+
+.news-description {
+  font-size: 14px;
+  margin-bottom: 15px;
+  color: #666;
+}
+
+.news-category {
+  color: #e60023;
+  font-weight: bold;
+}
+
+  /*  */
+
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+.copy{
+    background-color: #333;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.footer h2 {
+    margin-bottom: 20px;
+}
+
+.footer-column {
+    flex: 1;
+    margin-right: 20px;
+    min-width: 180px;
+}
+
+.footer-column nav a {
+    display: block;
+    color: white;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
