@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/NewsPaper-website-using-React/static/css/main.3e1a8b97.css",
+    "main.js": "/NewsPaper-website-using-React/static/js/main.09270ce4.js",
+    "static/js/453.226b9c39.chunk.js": "/NewsPaper-website-using-React/static/js/453.226b9c39.chunk.js",
+    "static/media/video1.mp4": "/NewsPaper-website-using-React/static/media/video1.e40e43ab91646f4c2b3b.mp4",
+    "static/media/news6.png": "/NewsPaper-website-using-React/static/media/news6.27f6972b1a43c1e70df3.png",
+    "static/media/video2.mp4": "/NewsPaper-website-using-React/static/media/video2.c849aaa2b0fc1054c13b.mp4",
+    "static/media/news10.png": "/NewsPaper-website-using-React/static/media/news10.756d63c24400892c9166.png",
+    "static/media/news4.png": "/NewsPaper-website-using-React/static/media/news4.56cfca7446aea000c278.png",
+    "static/media/news8.png": "/NewsPaper-website-using-React/static/media/news8.7e58d97692d23320cbfc.png",
+    "static/media/news9.png": "/NewsPaper-website-using-React/static/media/news9.4e97f2c7944ec11f5c1a.png",
+    "static/media/video3.mp4": "/NewsPaper-website-using-React/static/media/video3.66de52642582adb75e2e.mp4",
+    "static/media/news7.png": "/NewsPaper-website-using-React/static/media/news7.cdf0af14a9cfc7acf459.png",
+    "static/media/news5.png": "/NewsPaper-website-using-React/static/media/news5.d61dcc964352402ed126.png",
+    "static/media/news3.jpg": "/NewsPaper-website-using-React/static/media/news3.3065d0b5df17a15eb80b.jpg",
+    "static/media/news1.jpg": "/NewsPaper-website-using-React/static/media/news1.98a6ef0046e457e04594.jpg",
+    "static/media/breakingnews.jpg": "/NewsPaper-website-using-React/static/media/breakingnews.ca8f78fc960838d993bd.jpg",
+    "static/media/news2.webp": "/NewsPaper-website-using-React/static/media/news2.8d80913642dafc7be864.webp",
+    "index.html": "/NewsPaper-website-using-React/index.html",
+    "main.3e1a8b97.css.map": "/NewsPaper-website-using-React/static/css/main.3e1a8b97.css.map",
+    "main.09270ce4.js.map": "/NewsPaper-website-using-React/static/js/main.09270ce4.js.map",
+    "453.226b9c39.chunk.js.map": "/NewsPaper-website-using-React/static/js/453.226b9c39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e1a8b97.css",
+    "static/js/main.09270ce4.js"
+  ]
+}
